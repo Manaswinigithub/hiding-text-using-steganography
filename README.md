@@ -1,1 +1,1 @@
-# hiding-text-using-steganography
+text steganography using captialization method
